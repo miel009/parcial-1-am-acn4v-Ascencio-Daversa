@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">parcial-1-am-acn4v-Ascencio-Daversa</string>
-    <string name="main_text"> BigPlan </string>
-    <string name="main_text_final">A un paso de tu proxima aventura</string>
+    <string name="main_text_final">A un click de tu proxima aventura...</string>
 </resources>

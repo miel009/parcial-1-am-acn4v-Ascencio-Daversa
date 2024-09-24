@@ -1,7 +1,6 @@
 package com.example.parcial_1_am_acn4v_ascencio_daversa;
 
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
