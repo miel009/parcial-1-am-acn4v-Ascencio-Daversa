@@ -19,7 +19,7 @@
 <h3> USUARIO: </h3>
 <p>Nuestro usuario son las personas jóvenes, inquietas y aventureras. Personas que se aburren fácilmente y les gusta experimentar todo el tiempo cosas nuevas 
 </p>
-<p> <strong> Luego de realizar el estudio de las competencias de 3 aplicaciones(Meetup,Fever,Eventbrite) concluímos que nuestros objetivos serán: trong/> </p>
+<p> <strong> Luego de realizar el estudio de las competencias de 3 aplicaciones(Meetup,Fever,Eventbrite) concluímos que nuestros objetivos serán: <strong/> </p>
 <p> Que nuestra app cuente con muchos beneficios para nuestros usuarios, queremos ofrecer experiencias gratuitas o al menor costo para todos aquellos que disfruten del turismo en la ciudad. <strong> La app funcionará como una guía de experiencia para usuarios que inician en el mundo del turismo <strong/> </p>
 <h2> Estándares y guidelines </h2>
 <p>Fuente: La tipografía que se recomienda para apps es Roboto</p>
