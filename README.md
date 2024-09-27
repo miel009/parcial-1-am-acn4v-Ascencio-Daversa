@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<img width="307" alt="image" src="https://github.com/user-attachments/assets/470f7e51-1a82-489c-94b2-93e78c2503ef">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/470f7e51-1a82-489c-94b2-93e78c2503ef">
 <h2> A un click de tu proxima aventura... </h2>
 <h3> PROBLEMA: </h3>
 <p>Existe una gran oferta cultural y lugares de interés en la Ciudad de Buenos Aires, pero resulta cansador para los usuarios no tener nucleada toda la información de estos sitios. 
@@ -31,7 +31,7 @@
 <p>En conjunto con usamos el Rosa <strong>#e1b2d3<strong/> también para detalles, ya que este es un color muy suave y que es ampliamente utilizado para dar a conocer ambientes relajados y tranquilos </p>
 <p>Por último, elegimos Naranja,<strong>#d7731d<strong/>,para detalles y funciones a resaltar. Este color transmite diversión y calidez, referido a los lugares que nuestro usuario puede visitar y disfrutar de ellos en su experiencia.</p>
 <h2>LOGO:</h2>
-![image](https://github.com/user-attachments/assets/470f7e51-1a82-489c-94b2-93e78c2503ef)
+<img width="307" alt="image" src="https://github.com/user-attachments/assets/470f7e51-1a82-489c-94b2-93e78c2503ef">
 <p> Elegimos un logo que representa el entusiasmo y la curiosidad. Elegimos una mano haciendo un gesto de “Ok” porque nuestros usuarios serán los que le digan 
 “Ok” a sus próximas aventuras y nuevas experiencias </p>
 <h2> Wireframes - Prototipo Funcional </h2> 
