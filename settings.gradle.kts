@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "parcial-1-am-acn4v-Ascencio-Daversa"
+rootProject.name = "Big Plan"
 include(":app")
  
