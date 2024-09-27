@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  ![image](https://github.com/user-attachments/assets/470f7e51-1a82-489c-94b2-93e78c2503ef)
+<img width="307" alt="image" src="https://github.com/user-attachments/assets/470f7e51-1a82-489c-94b2-93e78c2503ef">
 <h2> A un click de tu proxima aventura... </h2>
 <h3> PROBLEMA: </h3>
 <p>Existe una gran oferta cultural y lugares de interés en la Ciudad de Buenos Aires, pero resulta cansador para los usuarios no tener nucleada toda la información de estos sitios. 
