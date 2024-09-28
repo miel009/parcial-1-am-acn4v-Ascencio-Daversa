@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
 <body>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/470f7e51-1a82-489c-94b2-93e78c2503ef">
 <h2> A un click de tu proxima aventura... </h2>
