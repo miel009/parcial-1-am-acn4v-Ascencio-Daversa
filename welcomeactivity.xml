@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3456d1"
+    tools:context=".welcomeactivity">
+
+    <!-- Logo de la aplicación -->
+
+    <!-- Subtítulo debajo del logo -->
+
+    <!-- Botón en forma de flecha -->
+
+    <ImageView
+        android:id="@+id/logoImage"
+        android:layout_width="682dp"
+        android:layout_height="386dp"
+        android:layout_marginTop="292dp"
+        android:contentDescription="Logo de Big Plan"
+        android:src="@drawable/logo1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvSubtitle"
+        android:layout_width="422dp"
+        android:layout_height="160dp"
+        android:layout_marginTop="4dp"
+        android:text="Estás a un click de tu próxima aventura."
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.682"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/logoImage" />
+
+    <ImageButton
+        android:id="@+id/btnArrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:contentDescription="Flecha para avanzar"
+        android:src="@drawable/ic0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.482"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvSubtitle" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
